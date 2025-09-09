@@ -1,5 +1,5 @@
 
-# Azure Application Offer
+# Azure Application Offer 9thofSept-sync
 
 This repository provides the necessary files and instructions to create an Azure application offer.
 
